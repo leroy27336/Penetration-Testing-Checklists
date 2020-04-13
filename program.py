@@ -9,6 +9,8 @@ P = 1
 R = 1 
 T = 1 
 E = 1
+AWS_KEY=abcd1234jkl78083
+
 
 # Calculates simple interest  
 SI = (P * R * T) / 100

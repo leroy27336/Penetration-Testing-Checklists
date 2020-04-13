@@ -8,7 +8,8 @@
 P = 1 
 R = 1 
 T = 1 
-  
+E = 1
+
 # Calculates simple interest  
 SI = (P * R * T) / 100
   
